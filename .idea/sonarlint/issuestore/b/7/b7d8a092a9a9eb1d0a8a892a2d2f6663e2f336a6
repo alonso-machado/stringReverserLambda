@@ -1,0 +1,9 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(”Õ¯ñ8šÇÕ™Á1
+9
+java:S1116"Remove this empty statement.(¾¶óö8›ÇÕ™Á1
+F	java:S106"+Replace this use of System.out by a logger.(ªÆÆS8›ÇÕ™Á1
+F	java:S106"+Replace this use of System.out by a logger.(ó²Ç-8œÇÕ™Á1
+G	java:S106"+Replace this use of System.out by a logger.(í—²ì8ÇÕ™Á1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8Õ‘šÁ1
